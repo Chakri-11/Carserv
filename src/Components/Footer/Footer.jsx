@@ -120,7 +120,7 @@ const Footer = () => {
         <section className="footer-two bg-secondColor">
           <div className="container">
             <div className="py-5 text-white text-center text-xl font-bold">
-              &copy; 2024 All Rights Reserved, Designed By <span className="text-mainColor">ENG/Moamen Hussein</span>
+              &copy; 2025 All Rights Reserved, Designed By <span className="text-mainColor">Chakradhar</span>
             </div>
           </div>
         </section>
